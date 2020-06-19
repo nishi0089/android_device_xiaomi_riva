@@ -122,7 +122,7 @@ endif
 LOCAL_C_INCLUDES += \
         $(TARGET_OUT_HEADERS)/qcom/display
 LOCAL_C_INCLUDES += \
-        $(call project-path-fo
+
         hardware/qcom/display-caf/msm8996/libqservice \
         hardware/qcom/display-caf/msm8996/libqdutils \
         hardware/qcom/display-caf/msm8996/gralloc \
