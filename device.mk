@@ -1,4 +1,4 @@
-#
+I#
 # Copyright (C) 2016 The CyanogenMod Project
 # Copyright (C) 2017-2019 The LineageOS Project
 #
@@ -52,6 +52,10 @@ PRODUCT_PACKAGES += \
     AntHalService \
     com.dsi.ant.antradio_library \
     libantradio
+
+# libqti_vndfwk_detect
+PRODUCT_PACKAGES += \
+    libqti_vndfwk_detect
 
 # Audio
 PRODUCT_PACKAGES += \
